@@ -241,32 +241,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>_OSI to XOSI</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<false/>
-				<key>Find</key>
-				<data>X09TSQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>WE9TSQ==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>OSID to XSID</string>
 				<key>Count</key>
 				<integer>0</integer>
@@ -1330,7 +1304,7 @@
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>emgtSGFuczoyNTI=</data>
+				<data>ZW4tVVM6MA==</data>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -1350,31 +1324,7 @@
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>LegacySchema</key>
-		<dict>
-			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<array>
-				<string>EFILoginHiDPI</string>
-				<string>EFIBluetoothDelay</string>
-				<string>LocationServicesEnabled</string>
-				<string>SystemAudioVolume</string>
-				<string>SystemAudioVolumeDB</string>
-				<string>SystemAudioVolumeSaved</string>
-				<string>bluetoothActiveControllerInfo</string>
-				<string>bluetoothInternalControllerInfo</string>
-				<string>flagstate</string>
-				<string>fmm-computer-name</string>
-				<string>nvda_drv</string>
-				<string>prev-lang:kbd</string>
-			</array>
-			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
-			<array>
-				<string>Boot0080</string>
-				<string>Boot0081</string>
-				<string>Boot0082</string>
-				<string>BootNext</string>
-				<string>BootOrder</string>
-			</array>
-		</dict>
+		<dict/>
 		<key>WriteFlash</key>
 		<false/>
 	</dict>
@@ -1389,26 +1339,24 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02X10NUKGYG</string>
+			<string>C02X801RKGYG</string>
 			<key>SystemUUID</key>
-			<string>9DFB2DAF-1B57-42E1-9D79-4B57C53EEC86</string>
+			<string>E9175997-44C1-450D-98F2-83816F60C25E</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
-			<true/>
 			<key>MLB</key>
-			<string>C02827501CDJP4F1F</string>
+			<string>C02834102QXJP4FAD</string>
 			<key>ROM</key>
-			<data>84FnPuyG</data>
+			<data>qnRVYMJe</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z1XZ2KGYG</string>
+			<string>C02X801RKGYG</string>
 			<key>SystemUUID</key>
-			<string>9DFB2DAF-1B57-42E1-9D79-4B57C53EEC86</string>
+			<string>E9175997-44C1-450D-98F2-83816F60C25E</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1419,66 +1367,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02827501CDJP4F1F</string>
+			<string>C02834102QXJP4FAD</string>
 			<key>ROM</key>
-			<data>84FnPuyG</data>
-		</dict>
-		<key>SMBIOS</key>
-		<dict>
-			<key>BIOSReleaseDate</key>
-			<string>01/05/2020</string>
-			<key>BIOSVendor</key>
-			<string>Apple Inc.</string>
-			<key>BIOSVersion</key>
-			<string>1037.80.41.0.0</string>
-			<key>BoardAssetTag</key>
-			<string></string>
-			<key>BoardLocationInChassis</key>
-			<string>Part Component</string>
-			<key>BoardManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>BoardProduct</key>
-			<string>Mac-937A206F2EE63C01</string>
-			<key>BoardSerialNumber</key>
-			<string>C029275014NJP4FJA</string>
-			<key>BoardType</key>
-			<integer>10</integer>
-			<key>BoardVersion</key>
-			<string>MacBookPro15,1</string>
-			<key>ChassisAssetTag</key>
-			<string>MacBook-Aluminum</string>
-			<key>ChassisManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>ChassisSerialNumber</key>
-			<string>C02Z1XZ2KGYG</string>
-			<key>ChassisType</key>
-			<integer>9</integer>
-			<key>ChassisVersion</key>
-			<string>Mac-937A206F2EE63C01</string>
-			<key>FirmwareFeatures</key>
-			<data>N+EP/AAAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P/8f/wAAAAA=</data>
-			<key>MemoryFormFactor</key>
-			<integer>0</integer>
-			<key>PlatformFeature</key>
-			<integer>2</integer>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>SystemFamily</key>
-			<string>MacBook Pro</string>
-			<key>SystemManufacturer</key>
-			<string>Apple Inc.</string>
-			<key>SystemProductName</key>
-			<string>MacBookPro15,1</string>
-			<key>SystemSKUNumber</key>
-			<string>Mac-937A206F2EE63C01</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X10NUKGYG</string>
-			<key>SystemUUID</key>
-			<string>9DFB2DAF-1B57-42E1-9D79-4B57C53EEC86</string>
-			<key>SystemVersion</key>
-			<string>1.0</string>
+			<data>qnRVYMJe</data>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
